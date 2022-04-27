@@ -26,4 +26,7 @@ www.youtube.com###guide-links-primary
 www.youtube.com###guide-links-secondary
 www.youtube.com###end > .ytd-masthead.style-scope
 www.youtube.com##ytd-rich-metadata-renderer.ytd-rich-metadata-row-renderer.style-scope:nth-of-type(2)
+www.youtube.com###chat
+www.youtube.com##.ytd-video-owner-renderer.style-scope.size-default.style-suggestive > .ytd-button-renderer.style-scope.yt-simple-endpoint > .size-default.style-suggestive.ytd-button-renderer.style-scope
+www.youtube.com###contentWrapper > .ytd-popup-container.style-scope
 
