@@ -30,3 +30,20 @@ www.youtube.com###chat
 www.youtube.com##.ytd-video-owner-renderer.style-scope.size-default.style-suggestive > .ytd-button-renderer.style-scope.yt-simple-endpoint > .size-default.style-suggestive.ytd-button-renderer.style-scope
 www.youtube.com###contentWrapper > .ytd-popup-container.style-scope
 
+! Dissocialized Youtube Mobile:tm:
+m.youtube.com##ytm-topbar-menu-button-renderer > .topbar-menu-button-avatar-button.icon-button
+m.youtube.com##.slim-video-action-bar-actions > c3-material-button.compact.button-renderer
+m.youtube.com##.mobile-topbar-header-sign-in-button
+m.youtube.com##ytm-menu-item:nth-of-type(1)
+m.youtube.com##ytm-menu-item:nth-of-type(4)
+m.youtube.com##ytm-menu-item:nth-of-type(5)
+m.youtube.com##ytm-menu-item:nth-of-type(6)
+m.youtube.com##.dialog-buttons > .compact.button-renderer
+m.youtube.com##.cbox.slim-owner-subscribe-button > .compact.button-renderer
+m.youtube.com##.media-item-menu > ytm-menu
+m.youtube.com##.cbox.secondary-text.comment-details
+m.youtube.com##ytm-comment-simplebox-renderer
+m.youtube.com##ytm-pivot-bar-item-renderer:nth-of-type(3)
+m.youtube.com##ytm-slim-metadata-toggle-button-renderer:nth-of-type(2)
+m.youtube.com##.cbox.c4-tabbed-header-subscibe > .compact.button-renderer
+
