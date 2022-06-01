@@ -29,6 +29,8 @@ www.youtube.com##ytd-rich-metadata-renderer.ytd-rich-metadata-row-renderer.style
 www.youtube.com###chat
 www.youtube.com##.ytd-video-owner-renderer.style-scope.size-default.style-suggestive > .ytd-button-renderer.style-scope.yt-simple-endpoint > .size-default.style-suggestive.ytd-button-renderer.style-scope
 www.youtube.com###end
+www.youtube.com##.ytd-modal-with-title-and-button-renderer.style-scope.buttons
+www.youtube.com##.ytd-popup-container.style-scope > .ytd-modal-with-title-and-button-renderer.style-scope
 
 
 ! Dissocialized Youtube Mobile:tm:
